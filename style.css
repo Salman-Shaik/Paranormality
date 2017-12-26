@@ -164,7 +164,7 @@ margin: 1em;
   background-color:rgb(41, 207, 236);
 }
 .main-frame{
-  margin :auto;
+  margin :0px 300px 0px 300px;
   text-align:center;
   background-color: black;
 }
