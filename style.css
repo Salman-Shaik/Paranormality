@@ -44,6 +44,8 @@ h1 {
   font-family: sans-serif;
   font-size: 80px;
   border-bottom:3px solid red;
+  position: absolute;
+  align:center;
 }
 
 .margins{
