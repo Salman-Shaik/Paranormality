@@ -125,6 +125,7 @@ margin: 1em;
   padding: 0px 6px 0px 6px;
   font-family: sans-serif;
   font-size: 20px;
+  align:left;
     position: relative;
     display: inline-block;
 }
