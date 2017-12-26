@@ -25,7 +25,6 @@ img {
 }
 .ColorWhite {
   color: #ffffff;
-  align:center;
 }
 .sideheading{
   color: rgb(247, 69, 69);
@@ -168,5 +167,4 @@ margin: 1em;
   margin: 0px 300px 0px 300px;
   background-color: black;
   align:center;
-  text-align:center;
 }
