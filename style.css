@@ -48,9 +48,10 @@ h1 {
 }
 
 .margins{
-  margin: 0px 300px 0px 300px;
+  margin: auto;
   background-color: black;
   padding: 10px;
+  align : center;
 }
 
 h2{
@@ -163,6 +164,7 @@ margin: 1em;
   background-color:rgb(41, 207, 236);
 }
 .main-frame{
+  margin :auto;
+  text-align:center;
   background-color: black;
-  align:center;
 }
